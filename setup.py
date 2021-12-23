@@ -8,7 +8,7 @@ setup(
     description='using python package to fetch token from aws sso automaticaly.',
     license='GPLv3+',
     packages=['sso'],
-    url='https://github.com/ACloudGuru/automating-aws-with-python/tree/master/01-webotron',
+    url='https://github.com/lxgzmy/aws-sso-python',
     install_requires=[
         'click',
         'boto3'
