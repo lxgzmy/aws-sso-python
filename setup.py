@@ -7,7 +7,7 @@ setup(
     author_email='lxgzmy@gmail.com',
     description='using python package to fetch token from aws sso automaticaly.',
     license='GPLv3+',
-    packages=['webotron'],
+    packages=['sso'],
     url='https://github.com/ACloudGuru/automating-aws-with-python/tree/master/01-webotron',
     install_requires=[
         'click',
