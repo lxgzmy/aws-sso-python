@@ -20,3 +20,7 @@ def cli(profile):
 def list_buckets():
     """List all s3 buckets."""
     print("test")
+
+
+if __name__ == '__main__':
+    cli()
