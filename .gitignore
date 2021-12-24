@@ -7,3 +7,6 @@ sso/__init__.pyc
 sso/__pycache__/__init__.cpython-39.pyc
 sso/__pycache__/sso.cpython-39.pyc
 sso.egg-info/*
+.idea/*
+.idea/aws-sso-python.iml
+.idea/misc.xml
